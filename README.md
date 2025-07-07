@@ -3,7 +3,7 @@
 Some Features:
 
 -   ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
--   🔐 Authentication with JSONWEBTOKENS (JWT)
+-   🔐 Authentication with JSON WEB TOKENS (JWT)
 -   🔥 React Query for Data Fetching, Caching etc.
 -   👥 Suggested Users to Follow
 -   ✍️ Creating Posts
